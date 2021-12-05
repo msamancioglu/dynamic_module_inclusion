@@ -12,7 +12,7 @@ To run app with loading and running selected modules/functions at runtime:
 python main.py file1
 ```
 
-You shoul see file1 includes and run dynamically
+You should see /files/file1.py included and run dynamically
 
 ```sh
 running magic file 1 
