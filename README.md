@@ -25,3 +25,9 @@ running magic file 1
 file1
 0:00:00.001981
 ```
+
+If  specified file cannot found under ./dynamic_files folder you will get an error:
+
+```sh
+no magic file with name [random_file] found under ./dynamic_files folder
+```
