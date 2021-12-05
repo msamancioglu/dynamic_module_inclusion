@@ -4,7 +4,13 @@ importlib python module  can be  used for importing python module/package at run
 
 Please visit [importlib](https://docs.python.org/3/library/importlib.html#importlib.import_module) for details
 
-Modules going to be imported at runtime should be placed under /magic_files folder. Currentlye there are two files 
+Modules going to be imported at runtime should be placed under /magic_files folder. Currently there are two files under this folder.
+
+```sh
+file1.py
+file2.py
+```
+
 
 To run application with selected module executed at runtime:
 
