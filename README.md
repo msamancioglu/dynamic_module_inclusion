@@ -2,9 +2,9 @@
 
 importlib python module  can be  used for importing python module/package at runtime dynamically
 
-Visit [importlib](https://docs.python.org/3/library/importlib.html#importlib.import_module) for details
+Please visit [importlib](https://docs.python.org/3/library/importlib.html#importlib.import_module) for details
 
-Modules goingto be imported at runtime should be placed under /files folder. Currentlye there are two files 
+Modules going to be imported at runtime should be placed under /files folder. Currentlye there are two files 
 
 To run app with loading and running selected modules/functions at runtime:
 
