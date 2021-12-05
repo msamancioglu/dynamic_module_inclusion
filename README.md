@@ -6,7 +6,7 @@ Please visit [importlib](https://docs.python.org/3/library/importlib.html#import
 
 Modules going to be imported at runtime should be placed under /magic_files folder. Currentlye there are two files 
 
-To run applıcation and load and execute selected module at runtime:
+To run application with selected module executed at runtime:
 
 ```sh
 python main.py file1
