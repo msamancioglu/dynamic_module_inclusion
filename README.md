@@ -1,6 +1,6 @@
-## Smart File Inclusion Using importlib module - Alternative Way
+## Smart File Inclusion Using importlib module
 
-importlib python module  can be  used for importin python module/package at runtime dynamically
+importlib python module  can be  used for importing python module/package at runtime dynamically
 
 Visit [importlib](https://docs.python.org/3/library/importlib.html#importlib.import_module) for details
 
