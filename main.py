@@ -16,4 +16,5 @@ if __name__ == "__main__":
         print(ret)
         end = datetime.now()
         print(end - start)
-    
+    else:
+        print(f"no magic file with name [{sys.argv[1]}] found under //dynamic_files folder")  
