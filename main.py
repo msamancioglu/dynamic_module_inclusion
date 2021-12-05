@@ -4,7 +4,7 @@ from datetime import datetime
 
 def magic_module(path:str):
     try:
-        mod = importlib.import_module(f"files.{path}")
+        mod = importlib.import_module(f"magic_files.{path}")
         return mod               
     except ModuleNotFoundError:        
         return None   
